@@ -138,7 +138,7 @@ based on 853x480
       </image>
       <image name="
          game-releasedate-icon,
-         game-players-icon,
+         game-developer-icon,
          game-playcount-icon,
          game-gametime-icon" extra="true">
          <maxSize>0.021101992966002 0.0375</maxSize><!-- 20 20 -->
@@ -155,7 +155,7 @@ based on 853x480
          <format ifSubset="font-size:large">%Y-%m</format>
          <visible>true</visible>
       </datetime>
-      <text name="md_players">
+      <text name="md_developer">
          <visible>true</visible>
       </text>
    </view>
@@ -165,7 +165,7 @@ based on 853x480
       </rating>
       <image name="
          game-releasedate-icon,
-         game-players-icon
+         game-developer-icon
          ">
          <visible>true</visible>
       </image>
@@ -175,10 +175,10 @@ based on 853x480
       <datetime name="md_releasedate">
          <pos>0.863423212192263 0.7421875</pos><!-- 736.5 356.25 -->
       </datetime>
-      <image name="game-players-icon">
+      <image name="game-developer-icon">
          <pos>0.836459554513482 0.802083333333333</pos><!-- 713.5 385 -->
       </image>
-      <text name="md_players">
+      <text name="md_developer">
          <pos>0.863423212192263 0.802083333333333</pos><!-- 736.5 385 -->
       </text>
    </view>
@@ -188,7 +188,7 @@ based on 853x480
       </rating>
       <image name="
          game-releasedate-icon,
-         game-players-icon,
+         game-developer-icon,
          game-gametime-icon,
          game-playcount-icon
          ">
@@ -200,10 +200,10 @@ based on 853x480
       <datetime name="md_releasedate">
          <pos>0.863423212192263 0.767708333333333</pos><!-- 736.5 368.5 -->
       </datetime>
-      <image name="game-players-icon">
+      <image name="game-developer-icon">
          <pos>0.836459554513482 0.81875</pos><!-- 713.5 393 -->
       </image>
-      <text name="md_players">
+      <text name="md_developer">
          <pos>0.863423212192263 0.81875</pos><!-- 736.5 393 -->
          <visible>true</visible>
       </text>
